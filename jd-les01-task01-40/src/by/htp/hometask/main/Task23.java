@@ -1,8 +1,8 @@
 package by.htp.hometask.main;
 
-/*Ќайти площадь кольца, 
+/*Найти площадь кольца, 
  * внутренний радиус которого равен r,
- *  а внешний Ц заданному числу R(R>20).
+ *  а внешний - R(R>r).
  */
 public class Task23 {
 
@@ -23,7 +23,7 @@ public class Task23 {
 
 		s3 = Math.PI * (Math.pow(r1, 2) - Math.pow(r, 2));
 
-		System.out.println("ѕлощадь кольца " + s3);
+		System.out.println("Площадь кольца " + s3);
 
 	}
 
