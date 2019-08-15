@@ -1,6 +1,6 @@
 package by.htp.hometask02.main;
 
-/*—оставить программу равны ли два числа a и b.
+/*Составить программу равны ли два числа a и b.
 */
 import java.util.Scanner;
 
