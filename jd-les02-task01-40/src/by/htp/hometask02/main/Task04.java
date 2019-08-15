@@ -12,11 +12,11 @@ public class Task04 {
 		int b;
 
 		Scanner sc = new Scanner(System.in);
-		System.out.println("¬ведите число");
+		System.out.println("Введите число");
 		a = sc.nextInt();
 
 		Scanner sc2 = new Scanner(System.in);
-		System.out.println("¬ведите число");
+		System.out.println("Введите число");
 		b = sc2.nextInt();
 
 		if (a == b) {
